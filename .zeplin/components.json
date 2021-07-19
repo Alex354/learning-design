@@ -1,0 +1,29 @@
+{
+  "plugins": [
+    {
+      "name": "@zeplin/cli-connect-react-plugin"
+    },
+    {
+      "name": "@zeplin/cli-connect-storybook-plugin",
+      "config": {
+        "url": "http://localhost:6006/",
+        "format": "new",
+        "startScript": "storybook"
+      }
+    }
+  ],
+  "projects": [
+    "60f53f41043096108f351653"
+  ],
+  "components": [
+    {
+      "path": "src\\components\\button.tsx",
+      "zeplinIds": [
+        "60f54579a859da11afad1b4e"
+      ]
+    }
+  ],
+  "github": {
+    "repository": "Alex354/learning-design"
+  }
+}
