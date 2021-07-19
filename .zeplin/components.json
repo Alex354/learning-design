@@ -1,7 +1,10 @@
 {
   "plugins": [
     {
-      "name": "@zeplin/cli-connect-react-plugin"
+      "name": "@zeplin/cli-connect-react-plugin",
+      "config": {
+        "tsDocgen": "react-docgen-typescript"
+      }
     },
     {
       "name": "@zeplin/cli-connect-storybook-plugin",
