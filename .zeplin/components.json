@@ -12,18 +12,20 @@
       }
     }
   ],
-  "projects": [
-    "60f53f41043096108f351653"
-  ],
+  "projects": ["60f53f41043096108f351653"],
   "components": [
     {
       "path": "src\\components\\button.tsx",
       "zeplinIds": [
-        "60f54579a859da11afad1b4e"
+        "60f54579a859da11afad1b4e",
+        "60f541b069fa881750b12745",
+        "60f54354d2770f10af22bf76",
+        "60f546d7c44fbc1767dc7a27"
       ]
     }
   ],
   "github": {
-    "repository": "Alex354/learning-design"
+    "repository": "Alex354/learning-design",
+    "branch": "main"
   }
 }
